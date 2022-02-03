@@ -1,0 +1,12 @@
+/Users/bkeener/Desktop/C#_algo/greaterthany/bin/Debug/netcoreapp3.1/greaterthany.deps.json
+/Users/bkeener/Desktop/C#_algo/greaterthany/bin/Debug/netcoreapp3.1/greaterthany.runtimeconfig.json
+/Users/bkeener/Desktop/C#_algo/greaterthany/bin/Debug/netcoreapp3.1/greaterthany.runtimeconfig.dev.json
+/Users/bkeener/Desktop/C#_algo/greaterthany/bin/Debug/netcoreapp3.1/greaterthany.dll
+/Users/bkeener/Desktop/C#_algo/greaterthany/bin/Debug/netcoreapp3.1/greaterthany.pdb
+/Users/bkeener/Desktop/C#_algo/greaterthany/obj/Debug/netcoreapp3.1/greaterthany.csprojAssemblyReference.cache
+/Users/bkeener/Desktop/C#_algo/greaterthany/obj/Debug/netcoreapp3.1/greaterthany.AssemblyInfoInputs.cache
+/Users/bkeener/Desktop/C#_algo/greaterthany/obj/Debug/netcoreapp3.1/greaterthany.AssemblyInfo.cs
+/Users/bkeener/Desktop/C#_algo/greaterthany/obj/Debug/netcoreapp3.1/greaterthany.csproj.CoreCompileInputs.cache
+/Users/bkeener/Desktop/C#_algo/greaterthany/obj/Debug/netcoreapp3.1/greaterthany.dll
+/Users/bkeener/Desktop/C#_algo/greaterthany/obj/Debug/netcoreapp3.1/greaterthany.pdb
+/Users/bkeener/Desktop/C#_algo/greaterthany/obj/Debug/netcoreapp3.1/greaterthany.genruntimeconfig.cache

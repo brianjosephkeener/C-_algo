@@ -1,0 +1,12 @@
+/Users/bkeener/Desktop/C#_algo/maxminavg/bin/Debug/netcoreapp3.1/maxminavg.deps.json
+/Users/bkeener/Desktop/C#_algo/maxminavg/bin/Debug/netcoreapp3.1/maxminavg.runtimeconfig.json
+/Users/bkeener/Desktop/C#_algo/maxminavg/bin/Debug/netcoreapp3.1/maxminavg.runtimeconfig.dev.json
+/Users/bkeener/Desktop/C#_algo/maxminavg/bin/Debug/netcoreapp3.1/maxminavg.dll
+/Users/bkeener/Desktop/C#_algo/maxminavg/bin/Debug/netcoreapp3.1/maxminavg.pdb
+/Users/bkeener/Desktop/C#_algo/maxminavg/obj/Debug/netcoreapp3.1/maxminavg.csprojAssemblyReference.cache
+/Users/bkeener/Desktop/C#_algo/maxminavg/obj/Debug/netcoreapp3.1/maxminavg.AssemblyInfoInputs.cache
+/Users/bkeener/Desktop/C#_algo/maxminavg/obj/Debug/netcoreapp3.1/maxminavg.AssemblyInfo.cs
+/Users/bkeener/Desktop/C#_algo/maxminavg/obj/Debug/netcoreapp3.1/maxminavg.csproj.CoreCompileInputs.cache
+/Users/bkeener/Desktop/C#_algo/maxminavg/obj/Debug/netcoreapp3.1/maxminavg.dll
+/Users/bkeener/Desktop/C#_algo/maxminavg/obj/Debug/netcoreapp3.1/maxminavg.pdb
+/Users/bkeener/Desktop/C#_algo/maxminavg/obj/Debug/netcoreapp3.1/maxminavg.genruntimeconfig.cache

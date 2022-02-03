@@ -1,0 +1,12 @@
+/Users/bkeener/Desktop/C#_algo/hex_code_val/obj/Debug/netcoreapp3.1/hex_code_val.csprojAssemblyReference.cache
+/Users/bkeener/Desktop/C#_algo/hex_code_val/obj/Debug/netcoreapp3.1/hex_code_val.AssemblyInfoInputs.cache
+/Users/bkeener/Desktop/C#_algo/hex_code_val/obj/Debug/netcoreapp3.1/hex_code_val.AssemblyInfo.cs
+/Users/bkeener/Desktop/C#_algo/hex_code_val/obj/Debug/netcoreapp3.1/hex_code_val.csproj.CoreCompileInputs.cache
+/Users/bkeener/Desktop/C#_algo/hex_code_val/bin/Debug/netcoreapp3.1/hex_code_val.deps.json
+/Users/bkeener/Desktop/C#_algo/hex_code_val/bin/Debug/netcoreapp3.1/hex_code_val.runtimeconfig.json
+/Users/bkeener/Desktop/C#_algo/hex_code_val/bin/Debug/netcoreapp3.1/hex_code_val.runtimeconfig.dev.json
+/Users/bkeener/Desktop/C#_algo/hex_code_val/bin/Debug/netcoreapp3.1/hex_code_val.dll
+/Users/bkeener/Desktop/C#_algo/hex_code_val/bin/Debug/netcoreapp3.1/hex_code_val.pdb
+/Users/bkeener/Desktop/C#_algo/hex_code_val/obj/Debug/netcoreapp3.1/hex_code_val.dll
+/Users/bkeener/Desktop/C#_algo/hex_code_val/obj/Debug/netcoreapp3.1/hex_code_val.pdb
+/Users/bkeener/Desktop/C#_algo/hex_code_val/obj/Debug/netcoreapp3.1/hex_code_val.genruntimeconfig.cache

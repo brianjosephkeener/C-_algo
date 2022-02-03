@@ -1,0 +1,12 @@
+/Users/bkeener/Desktop/C#_algo/Negatives/bin/Debug/netcoreapp3.1/Negatives.deps.json
+/Users/bkeener/Desktop/C#_algo/Negatives/bin/Debug/netcoreapp3.1/Negatives.runtimeconfig.json
+/Users/bkeener/Desktop/C#_algo/Negatives/bin/Debug/netcoreapp3.1/Negatives.runtimeconfig.dev.json
+/Users/bkeener/Desktop/C#_algo/Negatives/bin/Debug/netcoreapp3.1/Negatives.dll
+/Users/bkeener/Desktop/C#_algo/Negatives/bin/Debug/netcoreapp3.1/Negatives.pdb
+/Users/bkeener/Desktop/C#_algo/Negatives/obj/Debug/netcoreapp3.1/Negatives.csprojAssemblyReference.cache
+/Users/bkeener/Desktop/C#_algo/Negatives/obj/Debug/netcoreapp3.1/Negatives.AssemblyInfoInputs.cache
+/Users/bkeener/Desktop/C#_algo/Negatives/obj/Debug/netcoreapp3.1/Negatives.AssemblyInfo.cs
+/Users/bkeener/Desktop/C#_algo/Negatives/obj/Debug/netcoreapp3.1/Negatives.csproj.CoreCompileInputs.cache
+/Users/bkeener/Desktop/C#_algo/Negatives/obj/Debug/netcoreapp3.1/Negatives.dll
+/Users/bkeener/Desktop/C#_algo/Negatives/obj/Debug/netcoreapp3.1/Negatives.pdb
+/Users/bkeener/Desktop/C#_algo/Negatives/obj/Debug/netcoreapp3.1/Negatives.genruntimeconfig.cache

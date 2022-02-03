@@ -1,0 +1,12 @@
+/Users/bkeener/Desktop/C#_algo/iteratearray/bin/Debug/netcoreapp3.1/iteratearray.deps.json
+/Users/bkeener/Desktop/C#_algo/iteratearray/bin/Debug/netcoreapp3.1/iteratearray.runtimeconfig.json
+/Users/bkeener/Desktop/C#_algo/iteratearray/bin/Debug/netcoreapp3.1/iteratearray.runtimeconfig.dev.json
+/Users/bkeener/Desktop/C#_algo/iteratearray/bin/Debug/netcoreapp3.1/iteratearray.dll
+/Users/bkeener/Desktop/C#_algo/iteratearray/bin/Debug/netcoreapp3.1/iteratearray.pdb
+/Users/bkeener/Desktop/C#_algo/iteratearray/obj/Debug/netcoreapp3.1/iteratearray.csprojAssemblyReference.cache
+/Users/bkeener/Desktop/C#_algo/iteratearray/obj/Debug/netcoreapp3.1/iteratearray.AssemblyInfoInputs.cache
+/Users/bkeener/Desktop/C#_algo/iteratearray/obj/Debug/netcoreapp3.1/iteratearray.AssemblyInfo.cs
+/Users/bkeener/Desktop/C#_algo/iteratearray/obj/Debug/netcoreapp3.1/iteratearray.csproj.CoreCompileInputs.cache
+/Users/bkeener/Desktop/C#_algo/iteratearray/obj/Debug/netcoreapp3.1/iteratearray.dll
+/Users/bkeener/Desktop/C#_algo/iteratearray/obj/Debug/netcoreapp3.1/iteratearray.pdb
+/Users/bkeener/Desktop/C#_algo/iteratearray/obj/Debug/netcoreapp3.1/iteratearray.genruntimeconfig.cache

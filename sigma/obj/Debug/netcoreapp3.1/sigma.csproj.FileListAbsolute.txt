@@ -1,0 +1,12 @@
+/Users/bkeener/Desktop/C#_algo/sigma/bin/Debug/netcoreapp3.1/sigma.deps.json
+/Users/bkeener/Desktop/C#_algo/sigma/bin/Debug/netcoreapp3.1/sigma.runtimeconfig.json
+/Users/bkeener/Desktop/C#_algo/sigma/bin/Debug/netcoreapp3.1/sigma.runtimeconfig.dev.json
+/Users/bkeener/Desktop/C#_algo/sigma/bin/Debug/netcoreapp3.1/sigma.dll
+/Users/bkeener/Desktop/C#_algo/sigma/bin/Debug/netcoreapp3.1/sigma.pdb
+/Users/bkeener/Desktop/C#_algo/sigma/obj/Debug/netcoreapp3.1/sigma.csprojAssemblyReference.cache
+/Users/bkeener/Desktop/C#_algo/sigma/obj/Debug/netcoreapp3.1/sigma.AssemblyInfoInputs.cache
+/Users/bkeener/Desktop/C#_algo/sigma/obj/Debug/netcoreapp3.1/sigma.AssemblyInfo.cs
+/Users/bkeener/Desktop/C#_algo/sigma/obj/Debug/netcoreapp3.1/sigma.csproj.CoreCompileInputs.cache
+/Users/bkeener/Desktop/C#_algo/sigma/obj/Debug/netcoreapp3.1/sigma.dll
+/Users/bkeener/Desktop/C#_algo/sigma/obj/Debug/netcoreapp3.1/sigma.pdb
+/Users/bkeener/Desktop/C#_algo/sigma/obj/Debug/netcoreapp3.1/sigma.genruntimeconfig.cache

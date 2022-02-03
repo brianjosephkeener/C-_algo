@@ -1,0 +1,12 @@
+/Users/bkeener/Desktop/C#_algo/Find_Max/bin/Debug/netcoreapp3.1/Find_Max.deps.json
+/Users/bkeener/Desktop/C#_algo/Find_Max/bin/Debug/netcoreapp3.1/Find_Max.runtimeconfig.json
+/Users/bkeener/Desktop/C#_algo/Find_Max/bin/Debug/netcoreapp3.1/Find_Max.runtimeconfig.dev.json
+/Users/bkeener/Desktop/C#_algo/Find_Max/bin/Debug/netcoreapp3.1/Find_Max.dll
+/Users/bkeener/Desktop/C#_algo/Find_Max/bin/Debug/netcoreapp3.1/Find_Max.pdb
+/Users/bkeener/Desktop/C#_algo/Find_Max/obj/Debug/netcoreapp3.1/Find_Max.csprojAssemblyReference.cache
+/Users/bkeener/Desktop/C#_algo/Find_Max/obj/Debug/netcoreapp3.1/Find_Max.AssemblyInfoInputs.cache
+/Users/bkeener/Desktop/C#_algo/Find_Max/obj/Debug/netcoreapp3.1/Find_Max.AssemblyInfo.cs
+/Users/bkeener/Desktop/C#_algo/Find_Max/obj/Debug/netcoreapp3.1/Find_Max.csproj.CoreCompileInputs.cache
+/Users/bkeener/Desktop/C#_algo/Find_Max/obj/Debug/netcoreapp3.1/Find_Max.dll
+/Users/bkeener/Desktop/C#_algo/Find_Max/obj/Debug/netcoreapp3.1/Find_Max.pdb
+/Users/bkeener/Desktop/C#_algo/Find_Max/obj/Debug/netcoreapp3.1/Find_Max.genruntimeconfig.cache

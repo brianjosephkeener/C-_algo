@@ -1,0 +1,12 @@
+/Users/bkeener/Desktop/C#_algo/find_average/bin/Debug/netcoreapp3.1/find_average.deps.json
+/Users/bkeener/Desktop/C#_algo/find_average/bin/Debug/netcoreapp3.1/find_average.runtimeconfig.json
+/Users/bkeener/Desktop/C#_algo/find_average/bin/Debug/netcoreapp3.1/find_average.runtimeconfig.dev.json
+/Users/bkeener/Desktop/C#_algo/find_average/bin/Debug/netcoreapp3.1/find_average.dll
+/Users/bkeener/Desktop/C#_algo/find_average/bin/Debug/netcoreapp3.1/find_average.pdb
+/Users/bkeener/Desktop/C#_algo/find_average/obj/Debug/netcoreapp3.1/find_average.csprojAssemblyReference.cache
+/Users/bkeener/Desktop/C#_algo/find_average/obj/Debug/netcoreapp3.1/find_average.AssemblyInfoInputs.cache
+/Users/bkeener/Desktop/C#_algo/find_average/obj/Debug/netcoreapp3.1/find_average.AssemblyInfo.cs
+/Users/bkeener/Desktop/C#_algo/find_average/obj/Debug/netcoreapp3.1/find_average.csproj.CoreCompileInputs.cache
+/Users/bkeener/Desktop/C#_algo/find_average/obj/Debug/netcoreapp3.1/find_average.dll
+/Users/bkeener/Desktop/C#_algo/find_average/obj/Debug/netcoreapp3.1/find_average.pdb
+/Users/bkeener/Desktop/C#_algo/find_average/obj/Debug/netcoreapp3.1/find_average.genruntimeconfig.cache
