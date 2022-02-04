@@ -1,0 +1,13 @@
+C:\Users\root\Desktop\C#_algos\C-_algo\sum_to_one_digit\bin\Debug\netcoreapp3.1\sum_to_one_digit.exe
+C:\Users\root\Desktop\C#_algos\C-_algo\sum_to_one_digit\bin\Debug\netcoreapp3.1\sum_to_one_digit.deps.json
+C:\Users\root\Desktop\C#_algos\C-_algo\sum_to_one_digit\bin\Debug\netcoreapp3.1\sum_to_one_digit.runtimeconfig.json
+C:\Users\root\Desktop\C#_algos\C-_algo\sum_to_one_digit\bin\Debug\netcoreapp3.1\sum_to_one_digit.runtimeconfig.dev.json
+C:\Users\root\Desktop\C#_algos\C-_algo\sum_to_one_digit\bin\Debug\netcoreapp3.1\sum_to_one_digit.dll
+C:\Users\root\Desktop\C#_algos\C-_algo\sum_to_one_digit\bin\Debug\netcoreapp3.1\sum_to_one_digit.pdb
+C:\Users\root\Desktop\C#_algos\C-_algo\sum_to_one_digit\obj\Debug\netcoreapp3.1\sum_to_one_digit.csprojAssemblyReference.cache
+C:\Users\root\Desktop\C#_algos\C-_algo\sum_to_one_digit\obj\Debug\netcoreapp3.1\sum_to_one_digit.AssemblyInfoInputs.cache
+C:\Users\root\Desktop\C#_algos\C-_algo\sum_to_one_digit\obj\Debug\netcoreapp3.1\sum_to_one_digit.AssemblyInfo.cs
+C:\Users\root\Desktop\C#_algos\C-_algo\sum_to_one_digit\obj\Debug\netcoreapp3.1\sum_to_one_digit.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\C#_algos\C-_algo\sum_to_one_digit\obj\Debug\netcoreapp3.1\sum_to_one_digit.dll
+C:\Users\root\Desktop\C#_algos\C-_algo\sum_to_one_digit\obj\Debug\netcoreapp3.1\sum_to_one_digit.pdb
+C:\Users\root\Desktop\C#_algos\C-_algo\sum_to_one_digit\obj\Debug\netcoreapp3.1\sum_to_one_digit.genruntimeconfig.cache
