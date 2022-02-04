@@ -1,0 +1,13 @@
+C:\Users\root\Desktop\C#_algos\C-_algo\coin_change\bin\Debug\netcoreapp3.1\coin_change.exe
+C:\Users\root\Desktop\C#_algos\C-_algo\coin_change\bin\Debug\netcoreapp3.1\coin_change.deps.json
+C:\Users\root\Desktop\C#_algos\C-_algo\coin_change\bin\Debug\netcoreapp3.1\coin_change.runtimeconfig.json
+C:\Users\root\Desktop\C#_algos\C-_algo\coin_change\bin\Debug\netcoreapp3.1\coin_change.runtimeconfig.dev.json
+C:\Users\root\Desktop\C#_algos\C-_algo\coin_change\bin\Debug\netcoreapp3.1\coin_change.dll
+C:\Users\root\Desktop\C#_algos\C-_algo\coin_change\bin\Debug\netcoreapp3.1\coin_change.pdb
+C:\Users\root\Desktop\C#_algos\C-_algo\coin_change\obj\Debug\netcoreapp3.1\coin_change.csprojAssemblyReference.cache
+C:\Users\root\Desktop\C#_algos\C-_algo\coin_change\obj\Debug\netcoreapp3.1\coin_change.AssemblyInfoInputs.cache
+C:\Users\root\Desktop\C#_algos\C-_algo\coin_change\obj\Debug\netcoreapp3.1\coin_change.AssemblyInfo.cs
+C:\Users\root\Desktop\C#_algos\C-_algo\coin_change\obj\Debug\netcoreapp3.1\coin_change.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\C#_algos\C-_algo\coin_change\obj\Debug\netcoreapp3.1\coin_change.dll
+C:\Users\root\Desktop\C#_algos\C-_algo\coin_change\obj\Debug\netcoreapp3.1\coin_change.pdb
+C:\Users\root\Desktop\C#_algos\C-_algo\coin_change\obj\Debug\netcoreapp3.1\coin_change.genruntimeconfig.cache
