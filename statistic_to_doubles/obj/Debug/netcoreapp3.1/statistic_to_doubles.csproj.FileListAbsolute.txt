@@ -1,0 +1,13 @@
+C:\Users\root\Desktop\C#_algos\C-_algo\statistic_to_doubles\obj\Debug\netcoreapp3.1\statistic_to_doubles.csprojAssemblyReference.cache
+C:\Users\root\Desktop\C#_algos\C-_algo\statistic_to_doubles\obj\Debug\netcoreapp3.1\statistic_to_doubles.AssemblyInfoInputs.cache
+C:\Users\root\Desktop\C#_algos\C-_algo\statistic_to_doubles\obj\Debug\netcoreapp3.1\statistic_to_doubles.AssemblyInfo.cs
+C:\Users\root\Desktop\C#_algos\C-_algo\statistic_to_doubles\obj\Debug\netcoreapp3.1\statistic_to_doubles.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\C#_algos\C-_algo\statistic_to_doubles\bin\Debug\netcoreapp3.1\statistic_to_doubles.exe
+C:\Users\root\Desktop\C#_algos\C-_algo\statistic_to_doubles\bin\Debug\netcoreapp3.1\statistic_to_doubles.deps.json
+C:\Users\root\Desktop\C#_algos\C-_algo\statistic_to_doubles\bin\Debug\netcoreapp3.1\statistic_to_doubles.runtimeconfig.json
+C:\Users\root\Desktop\C#_algos\C-_algo\statistic_to_doubles\bin\Debug\netcoreapp3.1\statistic_to_doubles.runtimeconfig.dev.json
+C:\Users\root\Desktop\C#_algos\C-_algo\statistic_to_doubles\bin\Debug\netcoreapp3.1\statistic_to_doubles.dll
+C:\Users\root\Desktop\C#_algos\C-_algo\statistic_to_doubles\bin\Debug\netcoreapp3.1\statistic_to_doubles.pdb
+C:\Users\root\Desktop\C#_algos\C-_algo\statistic_to_doubles\obj\Debug\netcoreapp3.1\statistic_to_doubles.dll
+C:\Users\root\Desktop\C#_algos\C-_algo\statistic_to_doubles\obj\Debug\netcoreapp3.1\statistic_to_doubles.pdb
+C:\Users\root\Desktop\C#_algos\C-_algo\statistic_to_doubles\obj\Debug\netcoreapp3.1\statistic_to_doubles.genruntimeconfig.cache
