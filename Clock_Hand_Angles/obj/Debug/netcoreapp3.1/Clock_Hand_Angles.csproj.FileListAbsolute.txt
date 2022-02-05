@@ -1,0 +1,13 @@
+C:\Users\root\Desktop\C#_algos\C-_algo\Clock_Hand_Angles\obj\Debug\netcoreapp3.1\Clock_Hand_Angles.csprojAssemblyReference.cache
+C:\Users\root\Desktop\C#_algos\C-_algo\Clock_Hand_Angles\obj\Debug\netcoreapp3.1\Clock_Hand_Angles.AssemblyInfoInputs.cache
+C:\Users\root\Desktop\C#_algos\C-_algo\Clock_Hand_Angles\obj\Debug\netcoreapp3.1\Clock_Hand_Angles.AssemblyInfo.cs
+C:\Users\root\Desktop\C#_algos\C-_algo\Clock_Hand_Angles\obj\Debug\netcoreapp3.1\Clock_Hand_Angles.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\C#_algos\C-_algo\Clock_Hand_Angles\bin\Debug\netcoreapp3.1\Clock_Hand_Angles.exe
+C:\Users\root\Desktop\C#_algos\C-_algo\Clock_Hand_Angles\bin\Debug\netcoreapp3.1\Clock_Hand_Angles.deps.json
+C:\Users\root\Desktop\C#_algos\C-_algo\Clock_Hand_Angles\bin\Debug\netcoreapp3.1\Clock_Hand_Angles.runtimeconfig.json
+C:\Users\root\Desktop\C#_algos\C-_algo\Clock_Hand_Angles\bin\Debug\netcoreapp3.1\Clock_Hand_Angles.runtimeconfig.dev.json
+C:\Users\root\Desktop\C#_algos\C-_algo\Clock_Hand_Angles\bin\Debug\netcoreapp3.1\Clock_Hand_Angles.dll
+C:\Users\root\Desktop\C#_algos\C-_algo\Clock_Hand_Angles\bin\Debug\netcoreapp3.1\Clock_Hand_Angles.pdb
+C:\Users\root\Desktop\C#_algos\C-_algo\Clock_Hand_Angles\obj\Debug\netcoreapp3.1\Clock_Hand_Angles.dll
+C:\Users\root\Desktop\C#_algos\C-_algo\Clock_Hand_Angles\obj\Debug\netcoreapp3.1\Clock_Hand_Angles.pdb
+C:\Users\root\Desktop\C#_algos\C-_algo\Clock_Hand_Angles\obj\Debug\netcoreapp3.1\Clock_Hand_Angles.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\root\Desktop\C#_algos\C-_algo\Last_Digit_of_A_to_the_B\bin\Debug\netcoreapp3.1\Last_Digit_of_A_to_the_B.exe
+C:\Users\root\Desktop\C#_algos\C-_algo\Last_Digit_of_A_to_the_B\bin\Debug\netcoreapp3.1\Last_Digit_of_A_to_the_B.deps.json
+C:\Users\root\Desktop\C#_algos\C-_algo\Last_Digit_of_A_to_the_B\bin\Debug\netcoreapp3.1\Last_Digit_of_A_to_the_B.runtimeconfig.json
+C:\Users\root\Desktop\C#_algos\C-_algo\Last_Digit_of_A_to_the_B\bin\Debug\netcoreapp3.1\Last_Digit_of_A_to_the_B.runtimeconfig.dev.json
+C:\Users\root\Desktop\C#_algos\C-_algo\Last_Digit_of_A_to_the_B\bin\Debug\netcoreapp3.1\Last_Digit_of_A_to_the_B.dll
+C:\Users\root\Desktop\C#_algos\C-_algo\Last_Digit_of_A_to_the_B\bin\Debug\netcoreapp3.1\Last_Digit_of_A_to_the_B.pdb
+C:\Users\root\Desktop\C#_algos\C-_algo\Last_Digit_of_A_to_the_B\obj\Debug\netcoreapp3.1\Last_Digit_of_A_to_the_B.csprojAssemblyReference.cache
+C:\Users\root\Desktop\C#_algos\C-_algo\Last_Digit_of_A_to_the_B\obj\Debug\netcoreapp3.1\Last_Digit_of_A_to_the_B.AssemblyInfoInputs.cache
+C:\Users\root\Desktop\C#_algos\C-_algo\Last_Digit_of_A_to_the_B\obj\Debug\netcoreapp3.1\Last_Digit_of_A_to_the_B.AssemblyInfo.cs
+C:\Users\root\Desktop\C#_algos\C-_algo\Last_Digit_of_A_to_the_B\obj\Debug\netcoreapp3.1\Last_Digit_of_A_to_the_B.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\C#_algos\C-_algo\Last_Digit_of_A_to_the_B\obj\Debug\netcoreapp3.1\Last_Digit_of_A_to_the_B.dll
+C:\Users\root\Desktop\C#_algos\C-_algo\Last_Digit_of_A_to_the_B\obj\Debug\netcoreapp3.1\Last_Digit_of_A_to_the_B.pdb
+C:\Users\root\Desktop\C#_algos\C-_algo\Last_Digit_of_A_to_the_B\obj\Debug\netcoreapp3.1\Last_Digit_of_A_to_the_B.genruntimeconfig.cache
