@@ -1,0 +1,13 @@
+C:\Users\root\Desktop\github\C-_algo\Reverse_Array\bin\Debug\netcoreapp3.1\Reverse_Array.exe
+C:\Users\root\Desktop\github\C-_algo\Reverse_Array\bin\Debug\netcoreapp3.1\Reverse_Array.deps.json
+C:\Users\root\Desktop\github\C-_algo\Reverse_Array\bin\Debug\netcoreapp3.1\Reverse_Array.runtimeconfig.json
+C:\Users\root\Desktop\github\C-_algo\Reverse_Array\bin\Debug\netcoreapp3.1\Reverse_Array.runtimeconfig.dev.json
+C:\Users\root\Desktop\github\C-_algo\Reverse_Array\bin\Debug\netcoreapp3.1\Reverse_Array.dll
+C:\Users\root\Desktop\github\C-_algo\Reverse_Array\bin\Debug\netcoreapp3.1\Reverse_Array.pdb
+C:\Users\root\Desktop\github\C-_algo\Reverse_Array\obj\Debug\netcoreapp3.1\Reverse_Array.csprojAssemblyReference.cache
+C:\Users\root\Desktop\github\C-_algo\Reverse_Array\obj\Debug\netcoreapp3.1\Reverse_Array.AssemblyInfoInputs.cache
+C:\Users\root\Desktop\github\C-_algo\Reverse_Array\obj\Debug\netcoreapp3.1\Reverse_Array.AssemblyInfo.cs
+C:\Users\root\Desktop\github\C-_algo\Reverse_Array\obj\Debug\netcoreapp3.1\Reverse_Array.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\github\C-_algo\Reverse_Array\obj\Debug\netcoreapp3.1\Reverse_Array.dll
+C:\Users\root\Desktop\github\C-_algo\Reverse_Array\obj\Debug\netcoreapp3.1\Reverse_Array.pdb
+C:\Users\root\Desktop\github\C-_algo\Reverse_Array\obj\Debug\netcoreapp3.1\Reverse_Array.genruntimeconfig.cache
