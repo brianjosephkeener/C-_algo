@@ -1,0 +1,13 @@
+C:\Users\root\Desktop\github\C-_algo\Remove_Negatives\bin\Debug\netcoreapp3.1\Remove_Negatives.exe
+C:\Users\root\Desktop\github\C-_algo\Remove_Negatives\bin\Debug\netcoreapp3.1\Remove_Negatives.deps.json
+C:\Users\root\Desktop\github\C-_algo\Remove_Negatives\bin\Debug\netcoreapp3.1\Remove_Negatives.runtimeconfig.json
+C:\Users\root\Desktop\github\C-_algo\Remove_Negatives\bin\Debug\netcoreapp3.1\Remove_Negatives.runtimeconfig.dev.json
+C:\Users\root\Desktop\github\C-_algo\Remove_Negatives\bin\Debug\netcoreapp3.1\Remove_Negatives.dll
+C:\Users\root\Desktop\github\C-_algo\Remove_Negatives\bin\Debug\netcoreapp3.1\Remove_Negatives.pdb
+C:\Users\root\Desktop\github\C-_algo\Remove_Negatives\obj\Debug\netcoreapp3.1\Remove_Negatives.csprojAssemblyReference.cache
+C:\Users\root\Desktop\github\C-_algo\Remove_Negatives\obj\Debug\netcoreapp3.1\Remove_Negatives.AssemblyInfoInputs.cache
+C:\Users\root\Desktop\github\C-_algo\Remove_Negatives\obj\Debug\netcoreapp3.1\Remove_Negatives.AssemblyInfo.cs
+C:\Users\root\Desktop\github\C-_algo\Remove_Negatives\obj\Debug\netcoreapp3.1\Remove_Negatives.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\github\C-_algo\Remove_Negatives\obj\Debug\netcoreapp3.1\Remove_Negatives.dll
+C:\Users\root\Desktop\github\C-_algo\Remove_Negatives\obj\Debug\netcoreapp3.1\Remove_Negatives.pdb
+C:\Users\root\Desktop\github\C-_algo\Remove_Negatives\obj\Debug\netcoreapp3.1\Remove_Negatives.genruntimeconfig.cache
