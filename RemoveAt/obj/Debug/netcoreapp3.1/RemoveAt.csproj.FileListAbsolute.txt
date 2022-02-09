@@ -1,0 +1,13 @@
+C:\Users\root\Desktop\github\C-_algo\RemoveAt\bin\Debug\netcoreapp3.1\RemoveAt.exe
+C:\Users\root\Desktop\github\C-_algo\RemoveAt\bin\Debug\netcoreapp3.1\RemoveAt.deps.json
+C:\Users\root\Desktop\github\C-_algo\RemoveAt\bin\Debug\netcoreapp3.1\RemoveAt.runtimeconfig.json
+C:\Users\root\Desktop\github\C-_algo\RemoveAt\bin\Debug\netcoreapp3.1\RemoveAt.runtimeconfig.dev.json
+C:\Users\root\Desktop\github\C-_algo\RemoveAt\bin\Debug\netcoreapp3.1\RemoveAt.dll
+C:\Users\root\Desktop\github\C-_algo\RemoveAt\bin\Debug\netcoreapp3.1\RemoveAt.pdb
+C:\Users\root\Desktop\github\C-_algo\RemoveAt\obj\Debug\netcoreapp3.1\RemoveAt.csprojAssemblyReference.cache
+C:\Users\root\Desktop\github\C-_algo\RemoveAt\obj\Debug\netcoreapp3.1\RemoveAt.AssemblyInfoInputs.cache
+C:\Users\root\Desktop\github\C-_algo\RemoveAt\obj\Debug\netcoreapp3.1\RemoveAt.AssemblyInfo.cs
+C:\Users\root\Desktop\github\C-_algo\RemoveAt\obj\Debug\netcoreapp3.1\RemoveAt.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\github\C-_algo\RemoveAt\obj\Debug\netcoreapp3.1\RemoveAt.dll
+C:\Users\root\Desktop\github\C-_algo\RemoveAt\obj\Debug\netcoreapp3.1\RemoveAt.pdb
+C:\Users\root\Desktop\github\C-_algo\RemoveAt\obj\Debug\netcoreapp3.1\RemoveAt.genruntimeconfig.cache
