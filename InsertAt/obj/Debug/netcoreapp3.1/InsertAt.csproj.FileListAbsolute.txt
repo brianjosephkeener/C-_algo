@@ -1,0 +1,13 @@
+C:\Users\root\Desktop\github\C-_algo\InsertAt\bin\Debug\netcoreapp3.1\InsertAt.exe
+C:\Users\root\Desktop\github\C-_algo\InsertAt\bin\Debug\netcoreapp3.1\InsertAt.deps.json
+C:\Users\root\Desktop\github\C-_algo\InsertAt\bin\Debug\netcoreapp3.1\InsertAt.runtimeconfig.json
+C:\Users\root\Desktop\github\C-_algo\InsertAt\bin\Debug\netcoreapp3.1\InsertAt.runtimeconfig.dev.json
+C:\Users\root\Desktop\github\C-_algo\InsertAt\bin\Debug\netcoreapp3.1\InsertAt.dll
+C:\Users\root\Desktop\github\C-_algo\InsertAt\bin\Debug\netcoreapp3.1\InsertAt.pdb
+C:\Users\root\Desktop\github\C-_algo\InsertAt\obj\Debug\netcoreapp3.1\InsertAt.csprojAssemblyReference.cache
+C:\Users\root\Desktop\github\C-_algo\InsertAt\obj\Debug\netcoreapp3.1\InsertAt.AssemblyInfoInputs.cache
+C:\Users\root\Desktop\github\C-_algo\InsertAt\obj\Debug\netcoreapp3.1\InsertAt.AssemblyInfo.cs
+C:\Users\root\Desktop\github\C-_algo\InsertAt\obj\Debug\netcoreapp3.1\InsertAt.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\github\C-_algo\InsertAt\obj\Debug\netcoreapp3.1\InsertAt.dll
+C:\Users\root\Desktop\github\C-_algo\InsertAt\obj\Debug\netcoreapp3.1\InsertAt.pdb
+C:\Users\root\Desktop\github\C-_algo\InsertAt\obj\Debug\netcoreapp3.1\InsertAt.genruntimeconfig.cache
