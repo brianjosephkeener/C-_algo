@@ -1,0 +1,12 @@
+/Users/bkeener/Desktop/C#_algo/binary_search/bin/Debug/netcoreapp3.1/binary_search.deps.json
+/Users/bkeener/Desktop/C#_algo/binary_search/bin/Debug/netcoreapp3.1/binary_search.runtimeconfig.json
+/Users/bkeener/Desktop/C#_algo/binary_search/bin/Debug/netcoreapp3.1/binary_search.runtimeconfig.dev.json
+/Users/bkeener/Desktop/C#_algo/binary_search/bin/Debug/netcoreapp3.1/binary_search.dll
+/Users/bkeener/Desktop/C#_algo/binary_search/bin/Debug/netcoreapp3.1/binary_search.pdb
+/Users/bkeener/Desktop/C#_algo/binary_search/obj/Debug/netcoreapp3.1/binary_search.csprojAssemblyReference.cache
+/Users/bkeener/Desktop/C#_algo/binary_search/obj/Debug/netcoreapp3.1/binary_search.AssemblyInfoInputs.cache
+/Users/bkeener/Desktop/C#_algo/binary_search/obj/Debug/netcoreapp3.1/binary_search.AssemblyInfo.cs
+/Users/bkeener/Desktop/C#_algo/binary_search/obj/Debug/netcoreapp3.1/binary_search.csproj.CoreCompileInputs.cache
+/Users/bkeener/Desktop/C#_algo/binary_search/obj/Debug/netcoreapp3.1/binary_search.dll
+/Users/bkeener/Desktop/C#_algo/binary_search/obj/Debug/netcoreapp3.1/binary_search.pdb
+/Users/bkeener/Desktop/C#_algo/binary_search/obj/Debug/netcoreapp3.1/binary_search.genruntimeconfig.cache
