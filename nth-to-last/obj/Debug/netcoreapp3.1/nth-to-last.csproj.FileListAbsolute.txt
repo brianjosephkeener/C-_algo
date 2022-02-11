@@ -1,0 +1,12 @@
+/Users/bkeener/Desktop/C#_algo/nth-to-last/obj/Debug/netcoreapp3.1/nth-to-last.csprojAssemblyReference.cache
+/Users/bkeener/Desktop/C#_algo/nth-to-last/obj/Debug/netcoreapp3.1/nth-to-last.AssemblyInfoInputs.cache
+/Users/bkeener/Desktop/C#_algo/nth-to-last/obj/Debug/netcoreapp3.1/nth-to-last.AssemblyInfo.cs
+/Users/bkeener/Desktop/C#_algo/nth-to-last/obj/Debug/netcoreapp3.1/nth-to-last.csproj.CoreCompileInputs.cache
+/Users/bkeener/Desktop/C#_algo/nth-to-last/bin/Debug/netcoreapp3.1/nth-to-last.deps.json
+/Users/bkeener/Desktop/C#_algo/nth-to-last/bin/Debug/netcoreapp3.1/nth-to-last.runtimeconfig.json
+/Users/bkeener/Desktop/C#_algo/nth-to-last/bin/Debug/netcoreapp3.1/nth-to-last.runtimeconfig.dev.json
+/Users/bkeener/Desktop/C#_algo/nth-to-last/bin/Debug/netcoreapp3.1/nth-to-last.dll
+/Users/bkeener/Desktop/C#_algo/nth-to-last/bin/Debug/netcoreapp3.1/nth-to-last.pdb
+/Users/bkeener/Desktop/C#_algo/nth-to-last/obj/Debug/netcoreapp3.1/nth-to-last.dll
+/Users/bkeener/Desktop/C#_algo/nth-to-last/obj/Debug/netcoreapp3.1/nth-to-last.pdb
+/Users/bkeener/Desktop/C#_algo/nth-to-last/obj/Debug/netcoreapp3.1/nth-to-last.genruntimeconfig.cache
