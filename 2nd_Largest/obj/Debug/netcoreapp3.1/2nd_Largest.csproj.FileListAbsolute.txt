@@ -1,0 +1,12 @@
+/Users/bkeener/Desktop/C#_algo/2nd_Largest/obj/Debug/netcoreapp3.1/2nd_Largest.csprojAssemblyReference.cache
+/Users/bkeener/Desktop/C#_algo/2nd_Largest/obj/Debug/netcoreapp3.1/2nd_Largest.AssemblyInfoInputs.cache
+/Users/bkeener/Desktop/C#_algo/2nd_Largest/obj/Debug/netcoreapp3.1/2nd_Largest.AssemblyInfo.cs
+/Users/bkeener/Desktop/C#_algo/2nd_Largest/obj/Debug/netcoreapp3.1/2nd_Largest.csproj.CoreCompileInputs.cache
+/Users/bkeener/Desktop/C#_algo/2nd_Largest/bin/Debug/netcoreapp3.1/2nd_Largest.deps.json
+/Users/bkeener/Desktop/C#_algo/2nd_Largest/bin/Debug/netcoreapp3.1/2nd_Largest.runtimeconfig.json
+/Users/bkeener/Desktop/C#_algo/2nd_Largest/bin/Debug/netcoreapp3.1/2nd_Largest.runtimeconfig.dev.json
+/Users/bkeener/Desktop/C#_algo/2nd_Largest/bin/Debug/netcoreapp3.1/2nd_Largest.dll
+/Users/bkeener/Desktop/C#_algo/2nd_Largest/bin/Debug/netcoreapp3.1/2nd_Largest.pdb
+/Users/bkeener/Desktop/C#_algo/2nd_Largest/obj/Debug/netcoreapp3.1/2nd_Largest.dll
+/Users/bkeener/Desktop/C#_algo/2nd_Largest/obj/Debug/netcoreapp3.1/2nd_Largest.pdb
+/Users/bkeener/Desktop/C#_algo/2nd_Largest/obj/Debug/netcoreapp3.1/2nd_Largest.genruntimeconfig.cache
