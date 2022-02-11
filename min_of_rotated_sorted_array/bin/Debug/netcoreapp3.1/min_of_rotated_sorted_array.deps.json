@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "min_of_rotated_sorted_array/1.0.0": {
+        "runtime": {
+          "min_of_rotated_sorted_array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "min_of_rotated_sorted_array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
