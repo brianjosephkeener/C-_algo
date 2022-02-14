@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Get_String_Digits/1.0.0": {
+        "runtime": {
+          "Get_String_Digits.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Get_String_Digits/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
