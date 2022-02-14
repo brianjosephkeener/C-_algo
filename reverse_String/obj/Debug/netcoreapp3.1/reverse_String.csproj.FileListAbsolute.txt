@@ -1,0 +1,12 @@
+/Users/bkeener/Desktop/C#_algo/reverse_String/bin/Debug/netcoreapp3.1/reverse_String.deps.json
+/Users/bkeener/Desktop/C#_algo/reverse_String/bin/Debug/netcoreapp3.1/reverse_String.runtimeconfig.json
+/Users/bkeener/Desktop/C#_algo/reverse_String/bin/Debug/netcoreapp3.1/reverse_String.runtimeconfig.dev.json
+/Users/bkeener/Desktop/C#_algo/reverse_String/bin/Debug/netcoreapp3.1/reverse_String.dll
+/Users/bkeener/Desktop/C#_algo/reverse_String/bin/Debug/netcoreapp3.1/reverse_String.pdb
+/Users/bkeener/Desktop/C#_algo/reverse_String/obj/Debug/netcoreapp3.1/reverse_String.csprojAssemblyReference.cache
+/Users/bkeener/Desktop/C#_algo/reverse_String/obj/Debug/netcoreapp3.1/reverse_String.AssemblyInfoInputs.cache
+/Users/bkeener/Desktop/C#_algo/reverse_String/obj/Debug/netcoreapp3.1/reverse_String.AssemblyInfo.cs
+/Users/bkeener/Desktop/C#_algo/reverse_String/obj/Debug/netcoreapp3.1/reverse_String.csproj.CoreCompileInputs.cache
+/Users/bkeener/Desktop/C#_algo/reverse_String/obj/Debug/netcoreapp3.1/reverse_String.dll
+/Users/bkeener/Desktop/C#_algo/reverse_String/obj/Debug/netcoreapp3.1/reverse_String.pdb
+/Users/bkeener/Desktop/C#_algo/reverse_String/obj/Debug/netcoreapp3.1/reverse_String.genruntimeconfig.cache
