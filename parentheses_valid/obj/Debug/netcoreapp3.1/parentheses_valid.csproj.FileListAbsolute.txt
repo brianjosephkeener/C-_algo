@@ -1,0 +1,12 @@
+/Users/bkeener/Desktop/C#_algo/parentheses_valid/bin/Debug/netcoreapp3.1/parentheses_valid.deps.json
+/Users/bkeener/Desktop/C#_algo/parentheses_valid/bin/Debug/netcoreapp3.1/parentheses_valid.runtimeconfig.json
+/Users/bkeener/Desktop/C#_algo/parentheses_valid/bin/Debug/netcoreapp3.1/parentheses_valid.runtimeconfig.dev.json
+/Users/bkeener/Desktop/C#_algo/parentheses_valid/bin/Debug/netcoreapp3.1/parentheses_valid.dll
+/Users/bkeener/Desktop/C#_algo/parentheses_valid/bin/Debug/netcoreapp3.1/parentheses_valid.pdb
+/Users/bkeener/Desktop/C#_algo/parentheses_valid/obj/Debug/netcoreapp3.1/parentheses_valid.csprojAssemblyReference.cache
+/Users/bkeener/Desktop/C#_algo/parentheses_valid/obj/Debug/netcoreapp3.1/parentheses_valid.AssemblyInfoInputs.cache
+/Users/bkeener/Desktop/C#_algo/parentheses_valid/obj/Debug/netcoreapp3.1/parentheses_valid.AssemblyInfo.cs
+/Users/bkeener/Desktop/C#_algo/parentheses_valid/obj/Debug/netcoreapp3.1/parentheses_valid.csproj.CoreCompileInputs.cache
+/Users/bkeener/Desktop/C#_algo/parentheses_valid/obj/Debug/netcoreapp3.1/parentheses_valid.dll
+/Users/bkeener/Desktop/C#_algo/parentheses_valid/obj/Debug/netcoreapp3.1/parentheses_valid.pdb
+/Users/bkeener/Desktop/C#_algo/parentheses_valid/obj/Debug/netcoreapp3.1/parentheses_valid.genruntimeconfig.cache

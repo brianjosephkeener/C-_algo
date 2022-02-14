@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "parentheses_valid/1.0.0": {
+        "runtime": {
+          "parentheses_valid.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "parentheses_valid/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
