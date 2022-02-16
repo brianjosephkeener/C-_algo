@@ -16,13 +16,31 @@ namespace Book_Index
         static string BIndex(int[] arr)
         {
             string str = "";
-
-            return str;
+            for (int i = 0; i < arr.Length - 1; i++)
+            {
+                if(arr[i] + 1 != arr[i+1])
+                {
+                    str+=arr[i] + ", ";
+                }
+                else if (arr[i] < arr[i+1])
+                {
+                    for (int j = i; j < arr.Length - 1; j++)
+                    {
+                        if (arr[j] + 1 != arr[j+1])
+                        {
+                            str+=arr[i] + "-" + arr[j] + ", ";
+                            i = j;
+                            break;
+                        }
+                    }
+                }
+            }
+            return str + arr[arr.Length-1];
         }
         static void Main(string[] args)
         {
             int[] testarr = new int[]{1, 3, 4, 5, 7, 8, 10};
-            BIndex(testarr);
+            Console.WriteLine(BIndex(testarr));
         }
     }
 }
