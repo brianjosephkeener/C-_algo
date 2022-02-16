@@ -1,0 +1,12 @@
+/Users/bkeener/Desktop/C#_algo/IsPalindrome/obj/Debug/netcoreapp3.1/IsPalindrome.csprojAssemblyReference.cache
+/Users/bkeener/Desktop/C#_algo/IsPalindrome/obj/Debug/netcoreapp3.1/IsPalindrome.AssemblyInfoInputs.cache
+/Users/bkeener/Desktop/C#_algo/IsPalindrome/obj/Debug/netcoreapp3.1/IsPalindrome.AssemblyInfo.cs
+/Users/bkeener/Desktop/C#_algo/IsPalindrome/obj/Debug/netcoreapp3.1/IsPalindrome.csproj.CoreCompileInputs.cache
+/Users/bkeener/Desktop/C#_algo/IsPalindrome/bin/Debug/netcoreapp3.1/IsPalindrome.deps.json
+/Users/bkeener/Desktop/C#_algo/IsPalindrome/bin/Debug/netcoreapp3.1/IsPalindrome.runtimeconfig.json
+/Users/bkeener/Desktop/C#_algo/IsPalindrome/bin/Debug/netcoreapp3.1/IsPalindrome.runtimeconfig.dev.json
+/Users/bkeener/Desktop/C#_algo/IsPalindrome/bin/Debug/netcoreapp3.1/IsPalindrome.dll
+/Users/bkeener/Desktop/C#_algo/IsPalindrome/bin/Debug/netcoreapp3.1/IsPalindrome.pdb
+/Users/bkeener/Desktop/C#_algo/IsPalindrome/obj/Debug/netcoreapp3.1/IsPalindrome.dll
+/Users/bkeener/Desktop/C#_algo/IsPalindrome/obj/Debug/netcoreapp3.1/IsPalindrome.pdb
+/Users/bkeener/Desktop/C#_algo/IsPalindrome/obj/Debug/netcoreapp3.1/IsPalindrome.genruntimeconfig.cache
