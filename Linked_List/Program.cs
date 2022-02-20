@@ -52,6 +52,25 @@ class LinkedList {
     } else {
       Console.WriteLine("The list is empty.");
     }
+  }
+
+  // Given a value, return whether value is found in any node within the list.
+  public bool contains(int element)
+  {
+    Node temp = new Node();
+    temp = this.head;
+    if(temp != null) {
+    while(temp != null) {
+        if(temp.data == element)
+        {
+          Console.WriteLine("Found provided parameter in linked list");
+          return true;
+        }
+        temp = temp.next;
+      }
+    }
+    Console.WriteLine("Did not find provided parameter in linked list");
+    return false;
   }     
 };
 
@@ -70,5 +89,9 @@ class Implementation {
     //Delete the first node
     MyList.pop_front();
     MyList.PrintList();  
+
+    //test contains
+    MyList.contains(10);
+    MyList.contains(20);
   }
 }
