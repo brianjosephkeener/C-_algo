@@ -102,19 +102,21 @@ public int front()
 
   public int average()
   {
-    int avg = 0;
-    int sum = 0;
-    int count = 0;
     Node runner = new Node();
     runner = this.head;
+    int avg = 0;
+    int sum = 0;
+    int total = 0;
     if(runner != null)
     {
       while(runner != null) {
         sum+=runner.data;
-        count++;
+        total++;
+        runner = runner.next;
+        Console.WriteLine($"The average of the dataset in the linked list is: {avg}");
       }
     }
-    avg = sum / count;
+    avg = sum / total;
     Console.WriteLine($"The average of the dataset in the linked list is: {avg}");
     return avg;
   }
@@ -140,12 +142,12 @@ class Implementation {
     //Delete the first node
     MyList.pop_front();
     MyList.PrintList();  
+    MyList.average();
 
     //test contains
     MyList.contains(10);
     MyList.contains(20);
     MyList.front();
     MyList.length();
-    MyList.average();
   }
 }
