@@ -39,7 +39,7 @@ class LinkedList {
   }
 
   //display the content of the list
-  public void PrintList() {
+  public void Display() {
     Node temp = new Node();
     temp = this.head;
     if(temp != null) {
@@ -175,11 +175,11 @@ class Implementation {
     MyList.push_back(20);
     MyList.push_back(30);
     MyList.push_back(40);
-    MyList.PrintList();   
+    MyList.Display();   
 
     //Delete the first node
     MyList.pop_front();
-    MyList.PrintList();  
+    MyList.Display();  
     MyList.min();
     MyList.max();
   }
