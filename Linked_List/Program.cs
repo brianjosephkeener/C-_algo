@@ -180,6 +180,45 @@ public int back()
     return backVal;
 }
 
+// Create a function that creates a listNode with given value and inserts it at end of a linked list.
+
+public void addBack(int newElement)
+{
+  Node newNode = new Node();
+  newNode.data = newElement;
+  newNode.next = null;
+  if(head == null)
+  {
+    head = newNode;
+  }
+  else {
+    Node temp = new Node();
+    temp = head;
+    while (temp.next != null)
+    {
+      temp = temp.next;
+    }
+    temp.next = newNode;
+  }
+}
+
+  public void removeBack() {
+    if(this.head != null) {
+      if(this.head.next == null) {
+        this.head = null;
+      } else {
+        Node temp = new Node();
+        temp = this.head;
+        while(temp.next.next != null)
+        {
+          temp = temp.next;
+        }
+        Node lastNode = temp.next;
+        temp.next = null; 
+        lastNode = null;
+      }
+    }
+  }
 
 };
 
@@ -195,10 +234,8 @@ class Implementation {
     MyList.push_back(30);
     MyList.push_back(40);
     MyList.Display();   
-
-    //Delete the first node
-    MyList.pop_front();
-    MyList.Display();  
-    MyList.back();
+    // remove back
+    MyList.removeBack();
+    MyList.Display();
   }
 }
