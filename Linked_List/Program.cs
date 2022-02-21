@@ -279,7 +279,7 @@ class Implementation {
     MyList.addFront(40);
     MyList.Display();   
 
-    MyList.appendVal(300, 2);
+    MyList.preprendVal(300, 2);
     MyList.Display();
 
   }
