@@ -14,7 +14,7 @@ class LinkedList {
   }
   
   //Add new element at the end of the list
-  public void push_back(int newElement) {
+  public void addFront(int newElement) {
     Node newNode = new Node();
     newNode.data = newElement;
     newNode.next = null; 
@@ -229,10 +229,10 @@ class Implementation {
     LinkedList MyList = new LinkedList();
 
     //Add four elements in the list.
-    MyList.push_back(10);
-    MyList.push_back(20);
-    MyList.push_back(30);
-    MyList.push_back(40);
+    MyList.addFront(10);
+    MyList.addFront(20);
+    MyList.addFront(30);
+    MyList.addFront(40);
     MyList.Display();   
     // remove back
     MyList.removeBack();
