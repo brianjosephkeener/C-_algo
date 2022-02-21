@@ -82,12 +82,47 @@ public int front()
   return this.head.data;
 }
 
-// Create a function that accepts a pointer to first list node, and returns number of nodes in sList.
-public int length()
-{
+// Create a function that returns number of nodes in sList.
+  public int length()
+  {
+    int count = 0;
+    Node runner = new Node();
+    runner = this.head;
+      if(runner != null) {
+        while(runner != null) {
+          Console.WriteLine(runner.data + " ");
+          runner = runner.next;
+          count++;
+        }
+      
+    }
+    Console.WriteLine($"Length of linked list is: {count}");
+    return count;
+  }
 
-}
+  public int average()
+  {
+    int avg = 0;
+    int sum = 0;
+    int count = 0;
+    Node runner = new Node();
+    runner = this.head;
+    if(runner != null)
+    {
+      while(runner != null) {
+        sum+=runner.data;
+        count++;
+      }
+    }
+    avg = sum / count;
+    Console.WriteLine($"The average of the dataset in the linked list is: {avg}");
+    return avg;
+  }
+
 };
+
+// average
+// Create a standalone function ​average(node)​ that returns (...wait for it ... ) the ​average​ of all values contained in that list.
 
 
 // test the code
@@ -110,5 +145,7 @@ class Implementation {
     MyList.contains(10);
     MyList.contains(20);
     MyList.front();
+    MyList.length();
+    MyList.average();
   }
 }
