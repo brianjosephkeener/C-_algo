@@ -162,6 +162,25 @@ public int max()
     return max;
 }
 
+// back Create a standalone function that accepts a listNode pointer and returns the last value in the linked list.
+
+public int back()
+{
+  int backVal = 0;
+  Node runner = new Node();
+  runner = this.head;
+    if(runner != null)
+    {
+      while(runner != null) {
+        backVal = runner.data;
+        runner = runner.next;
+      }
+    }
+    Console.WriteLine($"{backVal}");
+    return backVal;
+}
+
+
 };
 
 
@@ -180,7 +199,6 @@ class Implementation {
     //Delete the first node
     MyList.pop_front();
     MyList.Display();  
-    MyList.min();
-    MyList.max();
+    MyList.back();
   }
 }
