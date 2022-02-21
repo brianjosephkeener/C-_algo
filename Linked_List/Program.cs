@@ -63,7 +63,7 @@ class LinkedList {
     while(temp != null) {
         if(temp.data == element)
         {
-          Console.WriteLine("Found provided parameter in linked list");
+          Console.WriteLine($"Found provided parameter in linked list which is : {temp.data}");
           return true;
         }
         temp = temp.next;
@@ -71,8 +71,24 @@ class LinkedList {
     }
     Console.WriteLine("Did not find provided parameter in linked list");
     return false;
-  }     
+  }
+
+
+// Return the ​value​ (not the node) at the head of the list. If list is empty, return null.
+
+public int front()
+{
+  Console.WriteLine($"the data value at the head of the list is: {this.head.data}");
+  return this.head.data;
+}
+
+// Create a function that accepts a pointer to first list node, and returns number of nodes in sList.
+public int length()
+{
+
+}
 };
+
 
 // test the code
 class Implementation { 
@@ -93,5 +109,6 @@ class Implementation {
     //test contains
     MyList.contains(10);
     MyList.contains(20);
+    MyList.front();
   }
 }
