@@ -113,7 +113,6 @@ public int front()
         sum+=runner.data;
         total++;
         runner = runner.next;
-        Console.WriteLine($"The average of the dataset in the linked list is: {avg}");
       }
     }
     avg = sum / total;
