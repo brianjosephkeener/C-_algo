@@ -100,6 +100,7 @@ public int front()
     return count;
   }
 
+// get average of total sList.
   public int average()
   {
     Node runner = new Node();
@@ -120,10 +121,48 @@ public int front()
     return avg;
   }
 
-};
 
-// average
-// Create a standalone function ​average(node)​ that returns (...wait for it ... ) the ​average​ of all values contained in that list.
+// Create function​ m​in()​ and ​max()​ to returning smallest and largest values in the list.
+
+public int min()
+{
+  int min = int.MaxValue;
+  Node runner = new Node();
+  runner = this.head;
+    if(runner != null)
+    {
+      while(runner != null) {
+        if(min > runner.data)
+        {
+          min = runner.data;
+        }
+        runner = runner.next;
+      }
+    }
+    Console.WriteLine($"The min of the dataset in the linked list is: {min}");
+    return min;
+}
+
+public int max()
+{
+  int max = int.MinValue;
+  Node runner = new Node();
+  runner = this.head;
+    if(runner != null)
+    {
+      while(runner != null) {
+        if(max < runner.data)
+        {
+          max = runner.data;
+        }
+        runner = runner.next;
+      }
+    }
+    Console.WriteLine($"The max of the dataset in the linked list is: {max}");
+    return max;
+}
+
+};
 
 
 // test the code
@@ -141,12 +180,7 @@ class Implementation {
     //Delete the first node
     MyList.pop_front();
     MyList.PrintList();  
-    MyList.average();
-
-    //test contains
-    MyList.contains(10);
-    MyList.contains(20);
-    MyList.front();
-    MyList.length();
+    MyList.min();
+    MyList.max();
   }
 }
