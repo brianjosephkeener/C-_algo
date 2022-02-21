@@ -220,7 +220,51 @@ public void addBack(int newElement)
     }
   }
 
+  // Create ​preprendVal(value,pos) ​that inserts a listNode with given ​value​ immediately before the given node.
+  // Return the new list.
+
+
+  public void preprendVal(int newElement, int pos)
+  {
+    Node newNode = new Node();
+    newNode.data = newElement;
+    newNode.next = null;
+    if(pos < 1 )
+    {
+      Console.WriteLine("Position should be at least 1");
+    }
+    else if (pos == 1)
+    {
+      newNode.next = head;
+      head = newNode;
+    }
+    else {
+      Node runner = new Node();
+      runner = head;
+      for(int i = 1; i < pos - 1; i++) {
+        if(runner != null) {
+          runner = runner.next;
+        }
+      }
+      if(runner != null)
+      {
+        newNode.next = runner.next;
+        runner.next = newNode;
+      }
+      else 
+      {
+        Console.WriteLine("The previous node is null.");
+      }
+    }
+
+
+  }
+
 };
+
+/*
+
+*/
 
 
 // test the code
@@ -234,8 +278,9 @@ class Implementation {
     MyList.addFront(30);
     MyList.addFront(40);
     MyList.Display();   
-    // remove back
-    MyList.removeBack();
+
+    MyList.appendVal(300, 2);
     MyList.Display();
+
   }
 }
