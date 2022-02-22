@@ -258,17 +258,29 @@ public void addBack(int newElement)
     }
   }
 
-// Create ​removeVal(list,value) ​that removes from our list the node with the given ​value.​ Return the new list.
+// Create ​removeVal(value) ​that removes from our list the node with the given ​value.​ Return the new list.
   public void removeVal(int value)
   {
-    
-  }
+    Node nodeToDelete = new Node();
 
-  public void pop_front() {
-    if(this.head != null) {
-      Node temp = this.head;
-      this.head = this.head.next;
-      temp = null;  
+    while(head != null && head.data == value) {
+      nodeToDelete = head;
+      head = head.next;
+      nodeToDelete = null;
+    } 
+
+    Node temp = head;
+
+    if(temp != null) {
+      while(temp.next != null) {
+        if(temp.next.data == value) {
+          nodeToDelete = temp.next;
+          temp.next = temp.next.next;
+          nodeToDelete = null;
+        } else {
+          temp = temp.next;
+        }
+      }
     }
   }
 
@@ -292,7 +304,7 @@ class Implementation {
     MyList.addFront(40);
     MyList.Display();   
 
-    MyList.preprendVal(300, 2);
+    MyList.removeVal(40);
     MyList.Display();
 
   }
