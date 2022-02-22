@@ -284,10 +284,39 @@ public void addBack(int newElement)
     }
   }
 
+// Create ​appendVal(value,after)​ that inserts a new listNode with given ​value immediately after the node containing ​after​ (or at end). 
+
+  public void appendVal(int newElement, int pos)
+  {
+    Node newNode = new Node();
+    newNode.data = newElement;
+    newNode.next = null;
+    if(pos < 1 )
+    {
+      Console.WriteLine("Position should be at least 1");
+    }
+    else {
+      Node runner = new Node();
+      runner = head;
+      for(int i = 1; i < pos; i++) {
+        if(runner != null) {
+          runner = runner.next;
+        }
+      }
+      if(runner != null)
+      {
+        newNode.next = runner.next;
+        runner.next = newNode;
+      }
+    }
+  }
+
+
 };
 
 /*
 
+Create ​appendVal(list,value,after)​ that inserts a new listNode with given ​value immediately after the node containing ​after​ (or at end). Return the new list.
 
 */
 
@@ -304,7 +333,7 @@ class Implementation {
     MyList.addFront(40);
     MyList.Display();   
 
-    MyList.removeVal(40);
+    MyList.appendVal(1, 1);
     MyList.Display();
 
   }
