@@ -256,13 +256,26 @@ public void addBack(int newElement)
         Console.WriteLine("The previous node is null.");
       }
     }
+  }
 
+// Create ​removeVal(list,value) ​that removes from our list the node with the given ​value.​ Return the new list.
+  public void removeVal(int value)
+  {
+    
+  }
 
+  public void pop_front() {
+    if(this.head != null) {
+      Node temp = this.head;
+      this.head = this.head.next;
+      temp = null;  
+    }
   }
 
 };
 
 /*
+
 
 */
 
