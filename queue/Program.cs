@@ -3,9 +3,9 @@ using System.Collections;
 
 /*
 
-Enqueue
-Create ​slQueue​ method ​enqueue(val)​ to add the given value to end of our queue. 
-Remember, slQueue​ uses a singly linked list (not an array).
+Front
+return the value at front of our queue, without removing it.
+
 
 */
 
@@ -13,6 +13,11 @@ namespace queue
 {
     class Program
     {
+        static object Front(Queue q)
+        {
+            Console.WriteLine(q.ToArray()[0]);
+            return q.ToArray()[0];
+        }
         static void Main(string[] args)
         {
             Queue q = new Queue();
@@ -25,6 +30,14 @@ namespace queue
             {
                 Console.WriteLine(item);
             }
+            // Delete first obj in queue 
+            q.Dequeue();
+            foreach (var item in q)
+            {
+                Console.WriteLine(item);
+            }
+            // return first obj in queue
+            Front(q);
         }
     }
 }
