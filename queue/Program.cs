@@ -3,8 +3,8 @@ using System.Collections;
 
 /*
 
-Front
-return the value at front of our queue, without removing it.
+Contains
+Create method ​contains(val)​ to return whether given value is found within our queue.
 
 
 */
@@ -38,6 +38,8 @@ namespace queue
             }
             // return first obj in queue
             Front(q);
+            Console.WriteLine(q.Contains('A'));
+            Console.WriteLine(q.Contains('D'));
         }
     }
 }
