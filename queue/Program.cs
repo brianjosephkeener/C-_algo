@@ -3,9 +3,8 @@ using System.Collections;
 
 /*
 
-Is Empty
-Create ​slQueue​ method ​isEmpty()​ that returns whether our queue contains no values.
-
+Size
+Create ​slQueue​ method ​size()​ that returns the number of values in our queue.
 
 */
 
