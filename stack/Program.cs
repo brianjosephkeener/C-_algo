@@ -25,6 +25,9 @@ namespace stack
                 Console.WriteLine(item);
             }
             Console.WriteLine(Top(s));
+            
+            Console.WriteLine(s.Contains(3));
+            Console.WriteLine(s.Contains(4));
         }
     }
 }
