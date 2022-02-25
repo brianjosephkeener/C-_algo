@@ -35,6 +35,8 @@ namespace stack
             // check if stack has certain values
             Console.WriteLine(s.Contains(3));
             Console.WriteLine(s.Contains(4));
+            // write total to console
+            Console.WriteLine(s.Count);
         }
     }
 }
