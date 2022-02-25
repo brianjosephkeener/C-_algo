@@ -3,8 +3,8 @@ using System.Collections;
 
 /*
 
-Contains
-Create method ​contains(val)​ to return whether given value is found within our queue.
+Is Empty
+Create ​slQueue​ method ​isEmpty()​ that returns whether our queue contains no values.
 
 
 */
@@ -18,9 +18,18 @@ namespace queue
             Console.WriteLine(q.ToArray()[0]);
             return q.ToArray()[0];
         }
+        static bool IsEmpty(Queue q)
+        {
+            if(q.Count < 1)
+            {
+                return true;
+            }
+            return false;
+        }
         static void Main(string[] args)
         {
             Queue q = new Queue();
+            Queue emptyQueue = new Queue();
             // Load string char into queue data structure 
             q.Enqueue('A');
             q.Enqueue('B');
@@ -40,6 +49,8 @@ namespace queue
             Front(q);
             Console.WriteLine(q.Contains('A'));
             Console.WriteLine(q.Contains('D'));
+            Console.WriteLine(IsEmpty(q));
+            Console.WriteLine(IsEmpty(emptyQueue));
         }
     }
 }
