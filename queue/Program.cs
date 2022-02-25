@@ -1,13 +1,6 @@
 ﻿using System;
 using System.Collections;
 
-/*
-
-Size
-Create ​slQueue​ method ​size()​ that returns the number of values in our queue.
-
-*/
-
 namespace queue
 {
     class Program
@@ -50,6 +43,7 @@ namespace queue
             Console.WriteLine(q.Contains('D'));
             Console.WriteLine(IsEmpty(q));
             Console.WriteLine(IsEmpty(emptyQueue));
+            Console.WriteLine(q.Count);
         }
     }
 }
