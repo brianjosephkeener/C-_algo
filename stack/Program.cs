@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace stack
 {
@@ -6,7 +7,15 @@ namespace stack
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Stack s = new Stack();
+            // adding values to stack with push
+            s.Push(1);
+            s.Push(2);
+            s.Push(3);
+            foreach (var item in s)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }
