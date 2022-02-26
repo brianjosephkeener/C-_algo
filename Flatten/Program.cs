@@ -24,7 +24,7 @@ class Program
         return result;
     }
 
-    static void Main()
+    static void Main(string[] args)
     {
         int[,] elements = { { 10, 20, 30 }, { 40, 50, 60 } };
 
