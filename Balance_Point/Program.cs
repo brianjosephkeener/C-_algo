@@ -15,18 +15,32 @@ namespace Balance_Point
     {
         static bool bPoint(int[] arr)
         {
-            int temp = 0;
             for (int i = 0; i < arr.Length; i++)
             {
-                
+                int sumOfPrev = 0;
+                int sumOfFoll = 0;
+                int currI = i;
+                if(currI == 0)
+                    continue;
+                for (int j = 0; j < currI; j++)
+                {
+                    sumOfPrev  += arr[j];
+                }
+			    for (int k = (currI + 1); k < arr.Length; k++)
+                {
+                    sumOfFoll += arr[k];
+                }
+			    if (sumOfPrev == sumOfFoll)
+				return true;
             }
-            return true;
+            return false;
         }
         static void Main(string[] args)
         {
-            int[] arr1 = new int[] {1,2,3,4,10};
-            int[] arr2 = new int[] {1,2,4,2,1};
-
+            int[] arr1 = new int[] {2, 7, 4, 5, -3, 8, 9, -1}; // balance point: 3 and true
+            int[] arr2 = new int[] {1,2,4,2,100}; // no balance point and false
+            Console.WriteLine(bPoint(arr1));
+            Console.WriteLine(bPoint(arr2));
         }
     }
 }
