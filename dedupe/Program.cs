@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 /*
 
@@ -15,25 +16,36 @@ namespace dedupe
 {
     class Program
     {
-        static int[] deDupe(int[] parArr)
+        static List<int> deDupe(List<int> parArr)
         {
-            int[] result = new int[];
-            for (int i = 0; i < parArr.Length; i++)
+            List<int> result = new List<int>();
+            for (int i = 0; i < parArr.Count; i++)
             {
-                int numCheck = parArr[i];
-                for (int j = 0; j < parArr.Length; j++)
+                if(result.Count < 1)
                 {
-                    if(numCheck = parArr[j])
-                    {
-
+                    result.Add(parArr[i]);
+                    continue;
+                }
+                else
+                {
+                    for (int j = 0; j < parArr.Length; j++)
+                 {
+                        if(result[j] == result[i])
+                        {
+                            // need work on how to not alter original array
+                        }
                     }
                 }
             }
+            return result;
         }
         static void Main(string[] args)
         {
-            int[] arr = new int[] {1, 2, 1, 1, 3, 4, 2};
-
+            List<int> arr = new List<int> {1, 2, 1, 1, 3, 4, 2};
+            foreach (int item in deDupe(arr))
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }
