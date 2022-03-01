@@ -28,7 +28,7 @@ namespace dedupe
                 }
                 else
                 {
-                    for (int j = 0; j < parArr.Length; j++)
+                    for (int j = 0; j < parArr.Count; j++)
                  {
                         if(result[j] == result[i])
                         {

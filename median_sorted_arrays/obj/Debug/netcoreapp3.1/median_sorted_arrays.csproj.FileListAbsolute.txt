@@ -1,0 +1,12 @@
+/Users/bkeener/Desktop/C#_algo/median_sorted_arrays/bin/Debug/netcoreapp3.1/median_sorted_arrays.deps.json
+/Users/bkeener/Desktop/C#_algo/median_sorted_arrays/bin/Debug/netcoreapp3.1/median_sorted_arrays.runtimeconfig.json
+/Users/bkeener/Desktop/C#_algo/median_sorted_arrays/bin/Debug/netcoreapp3.1/median_sorted_arrays.runtimeconfig.dev.json
+/Users/bkeener/Desktop/C#_algo/median_sorted_arrays/bin/Debug/netcoreapp3.1/median_sorted_arrays.dll
+/Users/bkeener/Desktop/C#_algo/median_sorted_arrays/bin/Debug/netcoreapp3.1/median_sorted_arrays.pdb
+/Users/bkeener/Desktop/C#_algo/median_sorted_arrays/obj/Debug/netcoreapp3.1/median_sorted_arrays.csprojAssemblyReference.cache
+/Users/bkeener/Desktop/C#_algo/median_sorted_arrays/obj/Debug/netcoreapp3.1/median_sorted_arrays.AssemblyInfoInputs.cache
+/Users/bkeener/Desktop/C#_algo/median_sorted_arrays/obj/Debug/netcoreapp3.1/median_sorted_arrays.AssemblyInfo.cs
+/Users/bkeener/Desktop/C#_algo/median_sorted_arrays/obj/Debug/netcoreapp3.1/median_sorted_arrays.csproj.CoreCompileInputs.cache
+/Users/bkeener/Desktop/C#_algo/median_sorted_arrays/obj/Debug/netcoreapp3.1/median_sorted_arrays.dll
+/Users/bkeener/Desktop/C#_algo/median_sorted_arrays/obj/Debug/netcoreapp3.1/median_sorted_arrays.pdb
+/Users/bkeener/Desktop/C#_algo/median_sorted_arrays/obj/Debug/netcoreapp3.1/median_sorted_arrays.genruntimeconfig.cache

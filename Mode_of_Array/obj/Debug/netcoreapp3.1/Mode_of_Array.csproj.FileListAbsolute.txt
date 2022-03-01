@@ -1,0 +1,12 @@
+/Users/bkeener/Desktop/C#_algo/Mode_of_Array/obj/Debug/netcoreapp3.1/Mode_of_Array.csprojAssemblyReference.cache
+/Users/bkeener/Desktop/C#_algo/Mode_of_Array/obj/Debug/netcoreapp3.1/Mode_of_Array.AssemblyInfoInputs.cache
+/Users/bkeener/Desktop/C#_algo/Mode_of_Array/obj/Debug/netcoreapp3.1/Mode_of_Array.AssemblyInfo.cs
+/Users/bkeener/Desktop/C#_algo/Mode_of_Array/obj/Debug/netcoreapp3.1/Mode_of_Array.csproj.CoreCompileInputs.cache
+/Users/bkeener/Desktop/C#_algo/Mode_of_Array/bin/Debug/netcoreapp3.1/Mode_of_Array.deps.json
+/Users/bkeener/Desktop/C#_algo/Mode_of_Array/bin/Debug/netcoreapp3.1/Mode_of_Array.runtimeconfig.json
+/Users/bkeener/Desktop/C#_algo/Mode_of_Array/bin/Debug/netcoreapp3.1/Mode_of_Array.runtimeconfig.dev.json
+/Users/bkeener/Desktop/C#_algo/Mode_of_Array/bin/Debug/netcoreapp3.1/Mode_of_Array.dll
+/Users/bkeener/Desktop/C#_algo/Mode_of_Array/bin/Debug/netcoreapp3.1/Mode_of_Array.pdb
+/Users/bkeener/Desktop/C#_algo/Mode_of_Array/obj/Debug/netcoreapp3.1/Mode_of_Array.dll
+/Users/bkeener/Desktop/C#_algo/Mode_of_Array/obj/Debug/netcoreapp3.1/Mode_of_Array.pdb
+/Users/bkeener/Desktop/C#_algo/Mode_of_Array/obj/Debug/netcoreapp3.1/Mode_of_Array.genruntimeconfig.cache
