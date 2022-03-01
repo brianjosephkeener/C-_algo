@@ -16,13 +16,15 @@ namespace median_sorted_arrays
 {
     class Program
     {
-        static int medianSortedArrays(List<int> arr)
+        static int medianSortedArrays(List<List<int>> arr)
         {
             return 0;
         }
         static void Main(string[] args)
         {
-            List<int> testArr = new List<int> {1, 2, 3, 4};
+            List<int> testArr = new List<int> {1, 5, 9};
+            List<int> testArr2 = new List<int> {1, 2, 3, 4, 5, 6};
+            List<List<int>> list = new List<List<int>> {testArr, testArr2};
         }
     }
 }
