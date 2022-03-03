@@ -3,7 +3,7 @@
 /*
 
 Write a recursive function that, given a number, returns the sum of integers from one up to that number. 
-For example, rSigma(5) = 1+2+3+4+5 = 15; rSigma(2.5) = 1+2 = 3; rSigma(-1) = 0.
+For example, rSigma(5) = 1+2+3+4+5 = 15; sigma(3) = 6 (or 1+2+3);
 
 */
 
@@ -13,17 +13,18 @@ namespace rSigma
     {
         static void Main(string[] args)
         {
-            int sigma(int entry, int x = 0, int y = 0)
+            int rSigma(int entry, int x = 0, int y = 0)
             {
                 if(entry != x)
                 {
-                    return sigma(entry-1, x++, y+=entry);
+                    y+=entry;
+                    return rSigma(entry-1, x++, y);
                 }
                 Console.WriteLine(y);
                 return y;
             }
-                sigma(3);
-                sigma(5);
+                rSigma(5);
+                rSigma(3);
         }
     }
 }
