@@ -1,0 +1,12 @@
+/Users/bkeener/Desktop/C#_algo/rFibonacci/bin/Debug/netcoreapp3.1/rFibonacci.deps.json
+/Users/bkeener/Desktop/C#_algo/rFibonacci/bin/Debug/netcoreapp3.1/rFibonacci.runtimeconfig.json
+/Users/bkeener/Desktop/C#_algo/rFibonacci/bin/Debug/netcoreapp3.1/rFibonacci.runtimeconfig.dev.json
+/Users/bkeener/Desktop/C#_algo/rFibonacci/bin/Debug/netcoreapp3.1/rFibonacci.dll
+/Users/bkeener/Desktop/C#_algo/rFibonacci/bin/Debug/netcoreapp3.1/rFibonacci.pdb
+/Users/bkeener/Desktop/C#_algo/rFibonacci/obj/Debug/netcoreapp3.1/rFibonacci.csprojAssemblyReference.cache
+/Users/bkeener/Desktop/C#_algo/rFibonacci/obj/Debug/netcoreapp3.1/rFibonacci.AssemblyInfoInputs.cache
+/Users/bkeener/Desktop/C#_algo/rFibonacci/obj/Debug/netcoreapp3.1/rFibonacci.AssemblyInfo.cs
+/Users/bkeener/Desktop/C#_algo/rFibonacci/obj/Debug/netcoreapp3.1/rFibonacci.csproj.CoreCompileInputs.cache
+/Users/bkeener/Desktop/C#_algo/rFibonacci/obj/Debug/netcoreapp3.1/rFibonacci.dll
+/Users/bkeener/Desktop/C#_algo/rFibonacci/obj/Debug/netcoreapp3.1/rFibonacci.pdb
+/Users/bkeener/Desktop/C#_algo/rFibonacci/obj/Debug/netcoreapp3.1/rFibonacci.genruntimeconfig.cache
