@@ -23,12 +23,15 @@ namespace Binary_String_Expansion
                 List <string> nestedArr = new List<string>();
                 if(inputArr[i] != "?")
                 {
-                    nestedArr.Add(inputArr[i]);
+                    nestedArr.Add(Convert.ToInt32(inputArr[i]));
                 }
                 else {
-                    
+                    nestedArr.Add(1);
                 }
+                nest.Add(nestedArr);
             }
+
+            return nest;
         }
         static void Main(string[] args)
         {
