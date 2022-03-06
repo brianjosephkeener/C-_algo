@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "String2WordArray/1.0.0": {
+        "runtime": {
+          "String2WordArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "String2WordArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
