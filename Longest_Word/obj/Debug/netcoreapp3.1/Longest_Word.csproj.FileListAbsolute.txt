@@ -1,0 +1,12 @@
+/Users/bkeener/Desktop/C#_algo/Longest_Word/bin/Debug/netcoreapp3.1/Longest_Word.deps.json
+/Users/bkeener/Desktop/C#_algo/Longest_Word/bin/Debug/netcoreapp3.1/Longest_Word.runtimeconfig.json
+/Users/bkeener/Desktop/C#_algo/Longest_Word/bin/Debug/netcoreapp3.1/Longest_Word.runtimeconfig.dev.json
+/Users/bkeener/Desktop/C#_algo/Longest_Word/bin/Debug/netcoreapp3.1/Longest_Word.dll
+/Users/bkeener/Desktop/C#_algo/Longest_Word/bin/Debug/netcoreapp3.1/Longest_Word.pdb
+/Users/bkeener/Desktop/C#_algo/Longest_Word/obj/Debug/netcoreapp3.1/Longest_Word.csprojAssemblyReference.cache
+/Users/bkeener/Desktop/C#_algo/Longest_Word/obj/Debug/netcoreapp3.1/Longest_Word.AssemblyInfoInputs.cache
+/Users/bkeener/Desktop/C#_algo/Longest_Word/obj/Debug/netcoreapp3.1/Longest_Word.AssemblyInfo.cs
+/Users/bkeener/Desktop/C#_algo/Longest_Word/obj/Debug/netcoreapp3.1/Longest_Word.csproj.CoreCompileInputs.cache
+/Users/bkeener/Desktop/C#_algo/Longest_Word/obj/Debug/netcoreapp3.1/Longest_Word.dll
+/Users/bkeener/Desktop/C#_algo/Longest_Word/obj/Debug/netcoreapp3.1/Longest_Word.pdb
+/Users/bkeener/Desktop/C#_algo/Longest_Word/obj/Debug/netcoreapp3.1/Longest_Word.genruntimeconfig.cache
