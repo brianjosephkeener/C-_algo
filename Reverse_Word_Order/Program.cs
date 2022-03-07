@@ -1,12 +1,50 @@
 ﻿using System;
+using System.Collections.Generic;
+
+/*
+
+Create a function that, given a string of words (with spaces), returns new string with words in reverse sequence. 
+Given ​"This is a test"​, return ​"test a is This"​.
+
+*/
 
 namespace Reverse_Word_Order
 {
     class Program
     {
+        public static string rWord(string input)
+        {
+            string rword = "";
+            string temp = "";
+            for (int i = input.Length - 1; i >= 0; i--)
+            {
+                if(Char.IsWhiteSpace(input[i]) == false)
+                {
+                    temp+=input[i];
+                }
+                else if(i == 1)
+                {
+                    Console.WriteLine(i);
+                    for (int j = temp.Length - 1; j >= 0; j--)
+                    {
+                        rword+=temp[j];
+                    }
+                    temp = " ";
+                }
+                else {
+                        for (int j = temp.Length - 1; j >= 0; j--)
+                        {
+                            rword+=temp[j];
+                        }
+                    temp = " ";
+                    }
+            }
+            return rword;
+            }
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(rWord("This is a test"));
         }
     }
 }
+
