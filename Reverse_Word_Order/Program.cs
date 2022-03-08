@@ -15,21 +15,12 @@ namespace Reverse_Word_Order
         public static string rWord(string input)
         {
             string rword = "";
-            string temp = "";
+            string temp = " ";
             for (int i = input.Length - 1; i >= 0; i--)
             {
                 if(Char.IsWhiteSpace(input[i]) == false)
                 {
                     temp+=input[i];
-                }
-                else if(i == 1)
-                {
-                    Console.WriteLine(i);
-                    for (int j = temp.Length - 1; j >= 0; j--)
-                    {
-                        rword+=temp[j];
-                    }
-                    temp = " ";
                 }
                 else {
                         for (int j = temp.Length - 1; j >= 0; j--)
@@ -38,6 +29,13 @@ namespace Reverse_Word_Order
                         }
                     temp = " ";
                     }
+                if(i == 0)
+                {
+                    for (int j = temp.Length - 1; j >= 0; j--)
+                    {
+                        rword+=temp[j];
+                    }
+                }
             }
             return rword;
             }
