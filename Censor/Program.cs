@@ -14,49 +14,22 @@ namespace Censor
     {
         static string Censor(string inputStr, string[] nauWord)
         {
-            char[] input = inputStr.ToCharArray();
-            int count = 0;
-            string temp = "";
+            string[] input = inputStr.Split(' ');
             for (int i = 0; i < input.Length; i++)
             {
-                if(Char.IsWhiteSpace(input[i]) == false)
+                for (int j = 0; j < nauWord.Length; j++)
                 {
-                    Console.WriteLine(temp);
-                    temp+=input[i];
-                    count++;
-                }
-                else if(i == input.Length - 1)
-                {
-                    for (int j = 0; j < nauWord.Length; j++)
+                    int index = input[i].IndexOf(nauWord[j]);
+                    if(index > -1 )
                     {
-                        if(temp == nauWord[j])
+                        for (int k = index; k < input[i].Length; k++)
                         {
-                            for (int k = i-count; k < count; k++)
-                            {
-                                input[k] = 'x';
-                            }
+                            
                         }
                     }
-                    temp = "";
-                    count = 0;
-                }
-                else {
-                    for (int j = 0; j < nauWord.Length; j++)
-                    {
-                        if(temp == nauWord[j])
-                        {
-                            for (int k = i-count; k < count; k++)
-                            {
-                                input[k] = 'x';
-                            }
-                        }
-                    }
-                    temp = "";
-                    count = 0;
                 }
             }
-            string result = new string(input);
-            return result;
+            return "";
         }
         static void Main(string[] args)
         {
