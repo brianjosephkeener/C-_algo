@@ -23,25 +23,32 @@ namespace Censor
                 {
                     char[] nauWordChArr = nauWord[j].ToCharArray();
                     int count = 0;
+                    bool trigger = false;
+                    int temp = 0;
                     for (int k = 0; k < inputChArr.Length; k++)
                     {
                         if(inputChArr[k] == nauWordChArr[count])
                         {
                             count++;
+                            if(trigger == false)
+                            {
+                                trigger = true;
+                                temp = k;
+                            }
                             if(count == nauWordChArr.Length)
                             {
-                                for (int l = Math.Abs(count-k-1); l < count; l++)
+                                for (int l = temp; l < count + temp; l++)
                                 {
-                                    Console.WriteLine(count);
-                                    Console.WriteLine(k);
                                     inputChArr[l] = 'x';
                                 }
                                 count = 0;
+                                trigger = false;
                             }
                         }
                         else
                         {
                             count = 0;
+                            trigger = false;
                         }
                     }
                 }
