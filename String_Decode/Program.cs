@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace test
+namespace String_Decode
 {
     class Program
     {

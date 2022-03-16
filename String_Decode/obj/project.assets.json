@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bkeener/Desktop/C#_algo/test/test.csproj",
-      "projectName": "test",
-      "projectPath": "/Users/bkeener/Desktop/C#_algo/test/test.csproj",
+      "projectUniqueName": "/Users/bkeener/Desktop/C#_algo/String_Decode/String_Decode.csproj",
+      "projectName": "String_Decode",
+      "projectPath": "/Users/bkeener/Desktop/C#_algo/String_Decode/String_Decode.csproj",
       "packagesPath": "/Users/bkeener/.nuget/packages/",
-      "outputPath": "/Users/bkeener/Desktop/C#_algo/test/obj/",
+      "outputPath": "/Users/bkeener/Desktop/C#_algo/String_Decode/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bkeener/.nuget/NuGet/NuGet.Config"
