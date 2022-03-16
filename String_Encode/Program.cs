@@ -36,7 +36,6 @@ namespace String_Encode
                     else 
                     {
                         result += inputarr[i].ToString() + count;
-                        count = 1;
                     }
             }
             return result;
