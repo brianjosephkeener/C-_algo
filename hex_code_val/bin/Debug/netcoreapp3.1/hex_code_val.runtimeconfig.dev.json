@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/bkeener/.dotnet/store/|arch|/|tfm|",
-      "/Users/bkeener/.nuget/packages"
+      "C:\\Users\\Brian Keener\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Brian Keener\\.nuget\\packages"
     ]
   }
 }
