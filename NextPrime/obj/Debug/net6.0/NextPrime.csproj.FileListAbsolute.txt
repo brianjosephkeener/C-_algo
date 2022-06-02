@@ -1,0 +1,15 @@
+C:\Users\Brian Keener\Desktop\C-_algo\NextPrime\obj\Debug\net6.0\NextPrime.csproj.AssemblyReference.cache
+C:\Users\Brian Keener\Desktop\C-_algo\NextPrime\obj\Debug\net6.0\NextPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian Keener\Desktop\C-_algo\NextPrime\obj\Debug\net6.0\NextPrime.AssemblyInfoInputs.cache
+C:\Users\Brian Keener\Desktop\C-_algo\NextPrime\obj\Debug\net6.0\NextPrime.AssemblyInfo.cs
+C:\Users\Brian Keener\Desktop\C-_algo\NextPrime\obj\Debug\net6.0\NextPrime.csproj.CoreCompileInputs.cache
+C:\Users\Brian Keener\Desktop\C-_algo\NextPrime\bin\Debug\net6.0\NextPrime.exe
+C:\Users\Brian Keener\Desktop\C-_algo\NextPrime\bin\Debug\net6.0\NextPrime.deps.json
+C:\Users\Brian Keener\Desktop\C-_algo\NextPrime\bin\Debug\net6.0\NextPrime.runtimeconfig.json
+C:\Users\Brian Keener\Desktop\C-_algo\NextPrime\bin\Debug\net6.0\NextPrime.dll
+C:\Users\Brian Keener\Desktop\C-_algo\NextPrime\bin\Debug\net6.0\NextPrime.pdb
+C:\Users\Brian Keener\Desktop\C-_algo\NextPrime\obj\Debug\net6.0\NextPrime.dll
+C:\Users\Brian Keener\Desktop\C-_algo\NextPrime\obj\Debug\net6.0\refint\NextPrime.dll
+C:\Users\Brian Keener\Desktop\C-_algo\NextPrime\obj\Debug\net6.0\NextPrime.pdb
+C:\Users\Brian Keener\Desktop\C-_algo\NextPrime\obj\Debug\net6.0\NextPrime.genruntimeconfig.cache
+C:\Users\Brian Keener\Desktop\C-_algo\NextPrime\obj\Debug\net6.0\ref\NextPrime.dll
