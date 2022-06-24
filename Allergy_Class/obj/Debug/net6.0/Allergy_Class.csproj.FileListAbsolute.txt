@@ -1,0 +1,15 @@
+C:\Users\Brian Keener\Desktop\C-_algo\Allergy_Class\bin\Debug\net6.0\Allergy_Class.exe
+C:\Users\Brian Keener\Desktop\C-_algo\Allergy_Class\bin\Debug\net6.0\Allergy_Class.deps.json
+C:\Users\Brian Keener\Desktop\C-_algo\Allergy_Class\bin\Debug\net6.0\Allergy_Class.runtimeconfig.json
+C:\Users\Brian Keener\Desktop\C-_algo\Allergy_Class\bin\Debug\net6.0\Allergy_Class.dll
+C:\Users\Brian Keener\Desktop\C-_algo\Allergy_Class\bin\Debug\net6.0\Allergy_Class.pdb
+C:\Users\Brian Keener\Desktop\C-_algo\Allergy_Class\obj\Debug\net6.0\Allergy_Class.csproj.AssemblyReference.cache
+C:\Users\Brian Keener\Desktop\C-_algo\Allergy_Class\obj\Debug\net6.0\Allergy_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian Keener\Desktop\C-_algo\Allergy_Class\obj\Debug\net6.0\Allergy_Class.AssemblyInfoInputs.cache
+C:\Users\Brian Keener\Desktop\C-_algo\Allergy_Class\obj\Debug\net6.0\Allergy_Class.AssemblyInfo.cs
+C:\Users\Brian Keener\Desktop\C-_algo\Allergy_Class\obj\Debug\net6.0\Allergy_Class.csproj.CoreCompileInputs.cache
+C:\Users\Brian Keener\Desktop\C-_algo\Allergy_Class\obj\Debug\net6.0\Allergy_Class.dll
+C:\Users\Brian Keener\Desktop\C-_algo\Allergy_Class\obj\Debug\net6.0\refint\Allergy_Class.dll
+C:\Users\Brian Keener\Desktop\C-_algo\Allergy_Class\obj\Debug\net6.0\Allergy_Class.pdb
+C:\Users\Brian Keener\Desktop\C-_algo\Allergy_Class\obj\Debug\net6.0\Allergy_Class.genruntimeconfig.cache
+C:\Users\Brian Keener\Desktop\C-_algo\Allergy_Class\obj\Debug\net6.0\ref\Allergy_Class.dll
