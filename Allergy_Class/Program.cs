@@ -58,6 +58,16 @@ namespace Allergy_Algo
 {
     class Allergy
     {
+        public KeyValuePair<int, string> allergy_score_cal(int input)
+        {
+            int net_zero = input;
+            var greater_than = allergies.Where(x => x.Value >= input);
+            for (int i = 0; i < greater_than.Count; i++)
+			{
+                net_zero -= greater_than[i];
+			}
+            
+        }
         public Dictionary<string, int> allergies = new Dictionary<string, int>
         {
             { "Eggs", 1 },
@@ -78,11 +88,30 @@ namespace Allergy_Algo
             this.name = name;
         }
 
+        public Allergy(string name, params string[] values)
+        {
+            this.name = name;
+
+        }
+
         private string ToString()
         {
             if(this.p_allergies.Count == 0)
             {
                 return $"{this.name} has no allergies!";
+            }
+            if(this.p_allergies.Count > 0)
+            {
+                // WORK ON THIS ^
+                string fstatement = $"{this.name} is allergic to";
+                for (int i = 0; i < this.p_allergies.Length; i++)
+                {
+                    if(this.p_allergies.Length == 1)
+                    {
+                        fstatement+=this.p_allergies[i].Key;
+                        break;
+                    }
+                }
             }
             else
             {
