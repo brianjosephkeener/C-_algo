@@ -58,15 +58,23 @@ namespace Allergy_Algo
 {
     class Allergy
     {
-        public KeyValuePair<int, string> allergy_score_cal(int input)
+        public List<KeyValuePair<string, int>> allergy_score_cal(int input) // done
         {
-            int net_zero = input;
-            var greater_than = allergies.Where(x => x.Value >= input);
-            for (int i = 0; i < greater_than.Count; i++)
+            List<KeyValuePair<string, int>> result = new List<KeyValuePair<string, int>>();
+            List<KeyValuePair<string, int>> allergy_list = allergies.OrderByDescending(x => x.Value).ToList();
+            for (int i = 0; i < allergy_list.Count; i++)
 			{
-                net_zero -= greater_than[i];
+                if(input - allergy_list[i].Value < 0)
+                {
+                    continue;
+                }
+                else if(input - allergy_list[i].Value >= 0)
+                {
+                    input -= allergy_list[i].Value;
+                    result.Add(allergy_list[i]);
+                }
 			}
-            
+            return result;
         }
         public Dictionary<string, int> allergies = new Dictionary<string, int>
         {
@@ -83,43 +91,63 @@ namespace Allergy_Algo
         public Dictionary<string, int> p_allergies = new Dictionary<string, int>(){};
         public string name;
 
-        public Allergy(string name)
+        public Allergy(string name) // done
         {
             this.name = name;
         }
 
-        public Allergy(string name, params string[] values)
+        public Allergy(string name, int score)
         {
             this.name = name;
-
+            List<KeyValuePair<string, int>> assignedAllergies = allergy_score_cal(score);
+            foreach (KeyValuePair<string, int> item in assignedAllergies)
+            {
+                this.p_allergies.Add(item.Key, item.Value);
+            }
         }
 
-        private string ToString()
+        public Allergy(string name, params string[] values) // done
         {
+            this.name = name;
+            for (int i = 0; i < values.Length; i++)
+            {
+                KeyValuePair<string, int>? temp = allergies.FirstOrDefault(x => x.Key == values[i]);
+                if(temp != null)
+                {
+                    this.p_allergies.Add(temp.Value.Key, temp.Value.Value);
+                }
+            }
+        }
+
+        public new string ToString() // done
+        {
+            var temp = this.p_allergies.ToList();
             if(this.p_allergies.Count == 0)
             {
                 return $"{this.name} has no allergies!";
             }
-            if(this.p_allergies.Count > 0)
+            else if(this.p_allergies.Count > 0)
             {
-                // WORK ON THIS ^
-                string fstatement = $"{this.name} is allergic to";
-                for (int i = 0; i < this.p_allergies.Length; i++)
-                {
-                    if(this.p_allergies.Length == 1)
+                string fstatement = $"{this.name} is allergic to ";
+                    if(this.p_allergies.Count == 1)
                     {
-                        fstatement+=this.p_allergies[i].Key;
-                        break;
+                        fstatement+= " " + temp[0].Key + ".";
+                        return fstatement;
                     }
+                for (int i = 0; i < this.p_allergies.Count; i++)
+                {
+                    if(this.p_allergies.Count - 1 == i)
+                    {
+                        fstatement+=temp[i].Key + ".";
+                        return fstatement;
+                    }
+                        fstatement+=temp[i].Key + ", ";
                 }
             }
-            else
-            {
-                return "";
-            }
+            return "Error in showing person's allergies!";
         }
 
-        private bool IsAllergicTo(object obj)
+        private bool IsAllergicTo(object obj) // done
         {
             if(obj.GetType() == typeof(string))
             {
@@ -145,20 +173,70 @@ namespace Allergy_Algo
                 return false;
             }
         }
-        private void AddAllergy()
+        public void AddAllergy(object input) // done
         {
-
+            if(input.GetType() == typeof(string))
+            {
+                KeyValuePair<string, int>? nameOfAllergy = allergies.FirstOrDefault(x => x.Key == input);
+                if(nameOfAllergy != null)
+                {
+                    this.p_allergies.Add(nameOfAllergy.Value.Key, nameOfAllergy.Value.Value);
+                }
+            }
+            else if(input.GetType() == typeof(int))
+            {
+                KeyValuePair<string, int>? scoreOfAllergy = allergies.FirstOrDefault(x => x.Value == (int)input);
+                if(scoreOfAllergy != null)
+                {
+                    this.p_allergies.Add(scoreOfAllergy.Value.Key, scoreOfAllergy.Value.Value);
+                }
+            }
+            else
+            {
+                Console.WriteLine("not an int or string data type");
+            }
         }
-        private void DeleteAllergy()
+        public void DeleteAllergy(object input) // done
         {
+            if(input.GetType() == typeof(string))
+            {
+                KeyValuePair<string, int>? nameOfAllergy = p_allergies.FirstOrDefault(x => x.Key == input);
+                if(nameOfAllergy != null)
+                {
+                    this.p_allergies.Remove(nameOfAllergy.Value.Key);
+                }
 
+            }
+            else if(input.GetType() == typeof(int))
+            {
+                KeyValuePair<string, int>? scoreOfAllergy = p_allergies.FirstOrDefault(x => x.Value == (int)input);
+                if(scoreOfAllergy != null)
+                {
+                    this.p_allergies.Remove(scoreOfAllergy.Value.Key);
+                }
+            }
+            else
+            {
+                Console.WriteLine("not an int or string data type");
+            }
         }
     }
     class Program
     {
         static void Main(string[] args)
         {
-
+            var mary = new Allergy("Mary");
+            Console.WriteLine(mary.ToString());
+            var joe = new Allergy("Joe", 65);
+            Console.WriteLine(joe.ToString());
+            var rob = new Allergy("Rob", "Peanuts", "Chocolate", "Cats", "Strawberries");
+            Console.WriteLine(rob.ToString());
+            rob.DeleteAllergy("Peanuts");
+            rob.DeleteAllergy(128);
+            Console.WriteLine(rob.ToString());
+            mary.AddAllergy(128);
+            mary.AddAllergy("Peanuts");
+            Console.WriteLine(mary.ToString());
         }
     }
 }
