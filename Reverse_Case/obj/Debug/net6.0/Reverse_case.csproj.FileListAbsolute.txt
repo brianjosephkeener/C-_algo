@@ -1,0 +1,15 @@
+C:\Users\Brian Keener\Desktop\C-_algo\Reverse_case\bin\Debug\net6.0\Reverse_case.exe
+C:\Users\Brian Keener\Desktop\C-_algo\Reverse_case\bin\Debug\net6.0\Reverse_case.deps.json
+C:\Users\Brian Keener\Desktop\C-_algo\Reverse_case\bin\Debug\net6.0\Reverse_case.runtimeconfig.json
+C:\Users\Brian Keener\Desktop\C-_algo\Reverse_case\bin\Debug\net6.0\Reverse_case.dll
+C:\Users\Brian Keener\Desktop\C-_algo\Reverse_case\bin\Debug\net6.0\Reverse_case.pdb
+C:\Users\Brian Keener\Desktop\C-_algo\Reverse_case\obj\Debug\net6.0\Reverse_case.csproj.AssemblyReference.cache
+C:\Users\Brian Keener\Desktop\C-_algo\Reverse_case\obj\Debug\net6.0\Reverse_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian Keener\Desktop\C-_algo\Reverse_case\obj\Debug\net6.0\Reverse_case.AssemblyInfoInputs.cache
+C:\Users\Brian Keener\Desktop\C-_algo\Reverse_case\obj\Debug\net6.0\Reverse_case.AssemblyInfo.cs
+C:\Users\Brian Keener\Desktop\C-_algo\Reverse_case\obj\Debug\net6.0\Reverse_case.csproj.CoreCompileInputs.cache
+C:\Users\Brian Keener\Desktop\C-_algo\Reverse_case\obj\Debug\net6.0\Reverse_case.dll
+C:\Users\Brian Keener\Desktop\C-_algo\Reverse_case\obj\Debug\net6.0\refint\Reverse_case.dll
+C:\Users\Brian Keener\Desktop\C-_algo\Reverse_case\obj\Debug\net6.0\Reverse_case.pdb
+C:\Users\Brian Keener\Desktop\C-_algo\Reverse_case\obj\Debug\net6.0\Reverse_case.genruntimeconfig.cache
+C:\Users\Brian Keener\Desktop\C-_algo\Reverse_case\obj\Debug\net6.0\ref\Reverse_case.dll
